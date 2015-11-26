@@ -1,0 +1,10 @@
+name 'wndsiissqlasp'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures wndsiissqlasp'
+long_description 'Installs/Configures wndsiissqlasp'
+version '0.3.0'
+
+depends 'sql_server', '~> 2.4.0'
+depends 'iis', '~> 4.1.1'
